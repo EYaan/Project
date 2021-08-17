@@ -137,7 +137,6 @@ class zSWitches(Switches):
 
     @caller
     def read_Switch0(self):
-        - 소숫점 2째자리 까지
         return not Switches()[0].read()
 
     @caller
