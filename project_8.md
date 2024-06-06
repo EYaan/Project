@@ -22,6 +22,8 @@
 
 
 - 결제버튼 위 좌표가 확인되면 마찬가지로 손가락 V표시로 결제 선택
+<br/>
+<br/>
 
 
 <img width="727" alt="서버 클라이언트_순서도" src="https://github.com/EYaan/Project/assets/81665544/812677da-1c93-4b79-9023-a3b822077dbe">
